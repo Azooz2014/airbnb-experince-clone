@@ -1,0 +1,23 @@
+.hero-container{
+    display: flex;
+    flex-direction: column;
+    padding-top: 34px;
+}
+
+.hero-image{
+    max-width: 75%;
+    align-self: center;
+}
+
+.hero-title{
+    padding-left: 36px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.hero-text{
+    padding-left: 36px;
+    font-size: 16px;
+    font-weight: 300;
+    max-width: 50%;
+}
